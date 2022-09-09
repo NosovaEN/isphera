@@ -1,0 +1,31 @@
+.center{
+    text-align: center;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+ul {
+    list-style-image: url(../img/12.png);
+}
+
+h1, h2{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(76, 8, 135);
+}
+
+a:hover {
+    color: crimson;
+}
+
+.site-menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.site-header{
+    display: flex;
+    justify-content:  space-between;
+}
